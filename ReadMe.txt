@@ -1,8 +1,5 @@
-This tool is made by LoopUE you aren't allawed to sell it or edit it
+This is an advanced python tool to get the subdomains of any website by brute forcing
 
-هذه الأداة من صنع لووب يو أي ليس من المصرح لك بيعها أو تعديلها
+just have fun 
 
-Telegram : @LoopUE
-
-Github : https://github.com/LoopUE
-
+telegram : @LoopUE
